@@ -1,0 +1,109 @@
+.container1{
+    padding: 15px;
+    height:900px;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color:rgb(238, 235, 235);
+    left:55px;
+    text-align: left;
+    position:absolute;
+    border-style: dotted;
+}
+.container2{
+    padding: 15px;
+    height:900px;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color:rgb(238, 235, 235);
+    right: 55px;
+    text-align: left;
+    position:absolute;
+    border-style: dotted;
+}
+.head{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: skyblue;
+    text-decoration:white;
+    text-align: center;
+}
+
+.h1{
+    color:darkblue;
+}
+.numbers{
+    color:yellowgreen;
+}
+.junk{
+    position: absolute;
+    right: 16px;
+    height: 100px;
+    width: 100px;
+}
+.junk1{
+    height: 40px;
+    width: 250px;
+}
+.junk2{
+    position:absolute;
+    bottom: 250px;
+    right: 16px;
+    height: 100px;
+    width: 100px;
+}
+.food{
+    position: absolute;
+    right: 16px;
+    height:50px;
+    width: 50px;
+}
+.food1{
+    position: absolute;
+    right: 16px;
+    height: 50px;
+    width: 50px;
+}
+.food2{
+    position: absolute;
+    right: 16px;
+    height: 50px;
+    width: 50px;
+}
+.food3{
+    position: absolute;
+    right: 16px;
+    height: 50px;
+    width: 50px;
+}
+.fig1{
+    position: absolute;
+    left: 16px;
+    height:70px;
+    width: 70px; 
+    border-radius: 50%;
+}
+.fig2{
+    position: absolute;
+    left: 16px;
+    height:70px;
+    width: 70px; 
+    border-radius: 50%;
+}
+.fig3{
+    position: absolute;
+    left: 16px;
+    height:70px;
+    width: 70px; 
+    border-radius: 50%;
+}
+.cls{
+    color: blue;
+}
